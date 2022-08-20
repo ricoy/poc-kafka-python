@@ -14,5 +14,5 @@ POC para demonstrar o uso da lib **kafka-python** para produção e consumo de m
 ## Inicialização do producer
 `python producer.py`
 
-## Artigo de referência
+## Artigo de referência sobre a inicialização do Kafka com docker-compose
 [Rodando o Kafka no meu computador com docker-compose](https://www.blogdoft.com.br/2021/03/28/rodando-o-kafka-no-meu-computador-com-docker-compose/)
